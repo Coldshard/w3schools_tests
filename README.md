@@ -9,3 +9,4 @@
 - All the tests are marked with code "t" + test №, e.g. "t3 is for test #3". This is done for quick selective launch using marks through pytest -m.
 - Project files successfully passed flake8 linter.
 - Dependencies are in requirements.txt
+- Code is documented using docstrings
